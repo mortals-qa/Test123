@@ -8,3 +8,12 @@
     description: null
     services: null
   serviceBindings: null
+- configuration: null
+  id: "2ede9be3-2fec-4a02-99e2-3fb5d20c246f"
+  name: ""
+  featureType:
+    id: "Mobile Resources"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null

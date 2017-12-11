@@ -1,0 +1,23 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "test123"
+- key: "ApplicationId"
+  value: ""
+id: null
+name: "test12334"
+artifactTypeId: "Hybrid App"
+description:
+  title: ""
+  details: "test132434"
+  icon: null
+  background: null
+  moreInfo: ""
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: "test123"
+  type: "test123"

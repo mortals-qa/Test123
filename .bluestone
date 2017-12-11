@@ -1,0 +1,12 @@
+---
+project:
+  name: "test123"
+  version: "0.1"
+  featureId: null
+  status:
+    title: "Draft"
+    details: null
+    icon: null
+    background: null
+    moreInfo: null
+    other: null

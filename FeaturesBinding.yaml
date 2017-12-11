@@ -1,0 +1,10 @@
+---
+- configuration: null
+  id: "9a600e60-7c82-4c9e-b3a9-da044a833db7"
+  name: ""
+  featureType:
+    id: "Mobile Analytics"
+    categoryId: null
+    description: null
+    services: null
+  serviceBindings: null
